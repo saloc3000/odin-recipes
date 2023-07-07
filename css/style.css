@@ -25,3 +25,7 @@ img { height: auto;
 strong {
     color: aquamarine;
 }
+p {
+    font-size: 17px;
+    text-align: justify;
+}

@@ -4,13 +4,17 @@ body  {
 
 h1 {
     text-align: center;
+    color: cadetblue;
+    font-size: 50px;
+    font-weight: 900;
 }
 ul {
     font-size: 30px;
     font-weight: 900;
 }
 ol {font-size: 30px;
-    font-weight: 900;    
+    font-weight: 900;
+    color: aquamarine;    
 }
 h4 {
     font-size: 23px;
@@ -28,4 +32,10 @@ strong {
 p {
     font-size: 17px;
     text-align: justify;
+    font-weight: 100;
+    color: black;
+}
+
+.list{
+    background-color: red;
 }

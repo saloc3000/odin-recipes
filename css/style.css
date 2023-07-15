@@ -72,3 +72,18 @@ button {
 img { width:600px;
     height: auto;
 }
+
+.container {
+    padding: 10px;
+    margin: 10px;
+}
+.container-ingredientes{
+    padding: 30px;
+    border-color:aqua;
+    border: 2px;
+    border-style:double;
+    background-color: palegoldenrod;
+}
+.container-ingredientes li {
+font-size: 30px;
+background-color: rgba(250, 235, 215, 0);}

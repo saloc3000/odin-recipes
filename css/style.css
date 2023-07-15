@@ -58,3 +58,8 @@ button {
 * {
     background-color: aliceblue;
 }
+
+.border-img {
+    border: 2px;
+    border-style: dashed;
+}
